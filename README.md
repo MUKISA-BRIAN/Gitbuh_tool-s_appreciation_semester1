@@ -1,2 +1,2 @@
-# Gitbuh_tool-s_appriciation_semester1
-This will store all the all my initial information as I explore and appreciate the various tools used in GitHub this current semester.
+GitHub tools appreciation_semester1 carries basic folders sturctures.that is the css, the js, and the images  also the index.html
+these will continue acumulating as  we move deep into the semester as i will  be populating it with the weekly assignments and my own delvepoed projects. 
